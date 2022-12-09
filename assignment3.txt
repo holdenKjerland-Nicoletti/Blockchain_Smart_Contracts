@@ -1,0 +1,10 @@
+Assignment 03 - Lightning Payment
+
+Name: Holden Kjerland-Nicoletti
+
+Transaction Sumamry
+Channel Open txid: https://mempool.space/testnet/tx/148c93160ad84c6aaa04d37c2098e83c12fad5fc2fb28254a662ab7ac3f62191
+
+Lightning Invoice: lntb100u1p3e8t74pp5t7t2zjc2gc3m2u6ugsajnjyf6g8n8565lfng2vr8xp3gzu4ervgsdqqcqzpgxqyz5vqsp5eejtk6fjxw2tmlwvvnpedw5u0xxdja445qudatchjk722n6ddxws9qyyssqdqt9c66rg2fwsvrrga36aw92vvgcfcv005fqrq3ktnznzdp3dss8h220wf4nvf874fp07tq9r4d9trv3s56sx6fptcruhyxqes0lw3gp5ejp3r
+
+Channel close txid: 7558bfd2bd24958e406d5fd1c5e0fe197f5afdd71083e2cf5fe7fbfbcbd51c2a
