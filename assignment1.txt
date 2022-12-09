@@ -1,14 +1,13 @@
 Assignment 01 - Bitcoin Transaction
 Name: Holden Kjerland-Nicoletti
-Email: holden.nicoletti@gmail.com
 
-Set up a receive transaction for initall funding.
+Transaction Summary:
     Funding Transaction
     Transaction ID: https://mempool.space/testnet/tx/d2e35f9caa7fe244ab53f20b397e3c7c5e32c3ce04e70e9f2c9fc7b8e8f14d20
     Faucet Input: https://mempool.space/testnet/address/tb1qxw4n6mhxpwmr8m8ndu2qpqc3rm6eck0h8gc3z3
     Wallet Address: https://mempool.space/testnet/address/tb1qgqehw4e86p6jhq9zkk0fchmsswa4l6levwt6wl
- 
- Send back funding to faucet.
+
+
     Redeem Transaction
     Transaction ID: https://mempool.space/testnet/tx/bd422c98b7233f1c0f8997c4e3ce517d36ae531b3f3650e2ef638144d5f5a66c
     Faucet Address: https://mempool.space/testnet/address/tb1q4280xax2lt0u5a5s9hd4easuvzalm8v9ege9ge
